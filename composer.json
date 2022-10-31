@@ -1,0 +1,17 @@
+{
+    "name": "afca/site",
+    "description": "Theme for site A",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Namespaces\\V1\\SiteXXX\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "afca"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
