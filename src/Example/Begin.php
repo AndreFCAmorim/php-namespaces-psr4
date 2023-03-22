@@ -1,6 +1,6 @@
 <?php
 
-namespace  Namespaces\V1\SiteXXX\Example;
+namespace  Namespaces\V1\Site\Example;
 
 class Begin {
 

@@ -4,7 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Namespaces\\V1\\SiteXXX\\": "src"
+            "Namespaces\\V1\\Site\\": "src"
         }
     },
     "authors": [
